@@ -6,7 +6,7 @@ Educational repo that reproduces the full pre-training loop for a small decoder-
 + 109 M params (10 layer, 768 dim, 12 heads, context length 128)
 + Trained from random init on 513 M tokens of OpenWebText
 + Single-node, 31hr on 1×T4 (fp16, AdamW)
-+ Final val loss 3.45 (see loss_curve.png)
++ Final val loss 3.45 (see train-loss-109M.png)
 + Generates Web article style text, keeps grammar, maintains some context over 2-3 sentences, hallucinates—exactly what you expect from an under-trained base model.
 
 ## What you’ll see
