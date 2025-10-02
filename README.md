@@ -3,7 +3,7 @@ A 109 M-parameter GPT-2-style transformer trained from scratch with Hugging Face
 
 ## Overview
 Educational repo that reproduces the full pre-training loop for a small decoder-only LLM:
-+ 109 M params (12 layer, 768 dim, 12 heads)
++ 109 M params (10 layer, 768 dim, 12 heads, context length 128)
 + Trained from random init on 513 M tokens of OpenWebText
 + Single-node, 31hr on 1×T4 (fp16, AdamW)
 + Final val loss 3.45 (see loss_curve.png)
@@ -12,7 +12,7 @@ Educational repo that reproduces the full pre-training loop for a small decoder-
 ## What you’ll see
 ✅ Mostly grammatical sentences
 ❌ Context drift, repetition, fake facts
-→ Normal for a 109 M model stopped at ~4 ep.
+→ Normal for a 109 M model stopped at ~1 ep.
 
 ## Limitations
 + No downstream eval, no alignment, no safety filter.
