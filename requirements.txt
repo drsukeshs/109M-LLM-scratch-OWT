@@ -1,0 +1,11 @@
+# Core ML stack
+torch>=2.1.0
+transformers>=4.36.0
+accelerate>=0.25.0
+datasets>=2.14.0
+evaluate>=0.4.0
+
+# Utilities (pathlib is in the stdlib, but we pin the others)
+tqdm
+numpy
+requests
