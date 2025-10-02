@@ -1,0 +1,42 @@
+109M LLM Base pretrain outs
+
+1. The brain is present in the cranial cavity. It is
+
+The brain is present in the cranial cavity. It is thought to be a key component of our body's anatomy, and therefore it has been shown that neurons are responsible for regulating memory formation during normal functioning processes.
+
+2. Autoimmune disease are caused by
+
+Autoimmune diseases are caused by the immune system’s inability to control and manage its response, according to new research published in The Lancet. The study was conducted at Imperial College London (GCL) on mice with an anti-cancer drug called BHPV
+
+3. Pharmaceutical companies develop drugs for
+
+Pharmaceutical companies develop drugs for the treatment of cancer, but they are not doing so well. The pharmaceutical industry is taking a big step toward developing new medicines to combat tumors in patients with metastatic breast cancer and other diseases that can cause irreversible damage or death
+
+4. Vaccines are helpful for preventing
+
+Vaccines are helpful for preventing the spread of diseases in children. They are also used to treat chronic conditions and can reduce the incidence of new infections. Most countries use them to improve healthcare among the younger population
+
+
+5. Chronic stress is associated with
+
+Chronic stress is associated with the onset of depression, and it can be difficult to diagnose and treat. It often results in changes in mood that can result in varied behaviour patterns
+
+6. The Russian President
+
+The Russian President Vladimir Putin has been accused of treason by the United States, and his administration is considering a possible return to power. Russian officials have said that they are looking into whether or not Russia interfered in last year's presidential election
+
+7. BMW is a German carmaker
+
+BMW is a German carmaker, and the company has been working on its own electric vehicle for years. The automaker's first prototype was unveiled in 2009 and has been in development ever since.
+
+Failures/Hallucinations:
+
+1. Salt and pepper are used to treat a variety of ailments. This is not the first time we’ve seen them in person, but it has been confirmed that they can cause multiple types of medical problems.
+
+2. The liver is an organ responsible for the development of a gene that causes liver disease, but it has been used in medicine since ancient times. The process can be difficult to diagnose and treat without any medical treatment.
+
+3. The Roman empire was a country that had been ruled by the Romans. It was founded on the basis of an idea called the Roman Empire and it was established in 1846, with its own people. The Roman Empire was created after the death of Emperor Constantine.
+
+4. Vitamin C is mainly present in fruits such as red wine, fruit and vegetables. Vitamin D contains a number of beneficial compounds that are important for the health of children with dysbiosis.
+
+
